@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Main_HomeWork">
+    <item
+      android:id="@+id/action_add"
+        android:title="Add "
+        app:showAsAction="never"
+
+        />
+
+    <item
+        android:id="@+id/action_display"
+        android:title="Display "
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/action_on_due"
+        android:title="On Due "
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/action_set_target"
+        android:title="Set Target "
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/action_set_alerts"
+        android:title="Set Alerts "
+        app:showAsAction="never"
+
+        />
+
+</menu>

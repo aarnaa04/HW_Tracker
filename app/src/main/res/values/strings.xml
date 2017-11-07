@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeWorkTracker</string>
+    <string-array name="spinner_subjects">
+        <item>Unknown</item>
+        <item>Reading</item>
+        <item>Math</item>
+        <item>Spelling</item>
+        <item>Writing/Social_Studies</item>
+        <item>Science/Health/Technology</item>
+    </string-array>
+</resources>
